@@ -1,5 +1,6 @@
 <?php
-$host = 'localhost'; 
-$db = 'global';
-$user = '';
-$password = '';
+$host = 'localhost';
+$db = 'bludova';
+$user = 'bludova';
+$password = '****';
+
